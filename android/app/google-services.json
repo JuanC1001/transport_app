@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "408446179180",
+    "firebase_url": "https://transportapp-23220.firebaseio.com",
+    "project_id": "transportapp-23220",
+    "storage_bucket": "transportapp-23220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408446179180:android:caa1cf479d73bc5c8b4549",
+        "android_client_info": {
+          "package_name": "com.innan.transport_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408446179180-q9nhpp668pbc1iacdenh56td8n2kpg17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaR2c1x7ZFOzyknP6u2EuSuFP4zhzZGVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408446179180-q9nhpp668pbc1iacdenh56td8n2kpg17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
